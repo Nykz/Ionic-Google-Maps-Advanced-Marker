@@ -1,0 +1,7 @@
+{
+  "name": "advanced-marker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
